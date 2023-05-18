@@ -26,4 +26,4 @@
 
 ## 相关链接
 
-[久其平台](https://6c43-120-253-229-79.ngrok.io/zcgl)
+[久其平台](https://ab10-116-236-161-144.ngrok-free.app/zcgl)
