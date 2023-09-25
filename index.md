@@ -30,4 +30,4 @@
 
 ## 相关链接
 
-[久其平台](https://eb6a-116-236-161-144.ngrok-free.app/zcgl)
+[久其平台](https://f7a4-120-253-229-79.ngrok-free.app/zcgl)
